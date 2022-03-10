@@ -2,7 +2,7 @@
 Unofficial Userbot for Telegram.
 MeowTg is analogous to Friendly-Telegram and others
 # Requirements
-You can only run the installer on Linux.
+You can run the installer only on Linux.
 Requires the Python package
 # Status
 In development
